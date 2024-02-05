@@ -2,4 +2,4 @@
 
 about - designed by both \
 index - Kate \ 
-secondcatalog - Jorge
+secondcatalog - Jacob
