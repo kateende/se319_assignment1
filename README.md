@@ -1,5 +1,5 @@
 # se319_assignment1
 
-about - designed by both
-index - Kate
-secondcatalog - Jorge
+about - designed by both \n
+index - Kate \n
+secondcatalog - Jorge \n
